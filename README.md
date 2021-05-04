@@ -1,4 +1,4 @@
-# Breast Cancer SVM dataset Demo
+# Breast Cancer SVM Demo
 
 For this project I used a breast cancer data set. It consists of many features describing a tumor and classifies them as either cancerous or non cancerous.
 
