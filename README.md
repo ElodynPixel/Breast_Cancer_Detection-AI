@@ -2,8 +2,10 @@
 
 For this project I used a breast cancer data set. It consists of many features describing a tumor and classifies them as either cancerous or non cancerous.
 
-Requirements
+Requirements:
+
 pip install python
+
 pip install sklearn
 
 Using sklearn and python
