@@ -5,7 +5,7 @@ For this project I used a breast cancer data set. It consists of many features d
 Similar to K Nearest Neighbors, SVMs are commonly used for classification tasks.
 They're great for high-dimensional data, and they let us classify data that doesn't have a linear relationship.
 
-Requirements:
+Dependency:
 
 pip install python
 
